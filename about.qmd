@@ -1,10 +1,14 @@
 ---
-title: "About"
+title: "Rabindranath Tagore"
+toc: false
+about:
+  template: trestles # Places image on left, text/links on right
+  image: images/RabindranathTagore.jpg
 ---
 
 
-Our Mission
+### Our Mission
 
-The objectives of the Vancouver Tagore Society are to:
+The objectives of the Prairie Tagore Society are to:
 
 Organize and promote social, cultural and intellectual events which celebrate diversity, inter-cultural harmony and universalism, and raise awareness of Eastern philosophies and cultures, with special emphasis on and guided by Rabindranath Tagore’s universal humanism, transcendental spirituality, thoughts and philosophy as expressed through his poems, songs, writings, plays, lectures, art, social reforms and other works.

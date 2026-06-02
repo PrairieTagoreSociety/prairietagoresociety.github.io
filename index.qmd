@@ -1,6 +1,24 @@
 ---
-title: "Prairie Tagore Society"
+title: "Praire Tagore Society"
+toc: false
+about:
+  template: trestles # Places image on left, text/links on right
+  image: images/logo.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:prairetagoresociety@gmail.com
+    - text: "![](images/youtube.png){width=20}"
+      href: https://www.youtube.com/c/PinuSattar
+      aria-label: YouTube
+    - text: "![](images/messenger.png){width=20}"
+      href: https://www.facebook.com/messages/t/61585122125702/
 ---
 
-This is a Quarto website.
+### Dedicated to promoting Bangla culture through music, literature, arts and community.
+
+**Phone:** +1 (306) 530-3365  
+**Office:** 5646 Campling Ave Regina, SK S4W 0L6
+
+
 

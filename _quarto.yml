@@ -9,6 +9,7 @@ project:
 
 website:
   title: "Prairie Tagore Society"
+  image: "images/RabindranathTagore.jpg" 
   navbar:
     left:
       - href: index.qmd
