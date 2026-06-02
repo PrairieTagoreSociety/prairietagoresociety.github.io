@@ -2,8 +2,9 @@
 title: "About"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+Our Mission
+
+The objectives of the Vancouver Tagore Society are to:
+
+Organize and promote social, cultural and intellectual events which celebrate diversity, inter-cultural harmony and universalism, and raise awareness of Eastern philosophies and cultures, with special emphasis on and guided by Rabindranath Tagore’s universal humanism, transcendental spirituality, thoughts and philosophy as expressed through his poems, songs, writings, plays, lectures, art, social reforms and other works.
