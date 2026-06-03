@@ -1,0 +1,17 @@
+---
+title: "Beauty & Colours of Bengal"
+toc: false
+date: 2 June 2026
+image: /images/November2026/image0.jpeg
+---
+
+::: {layout-ncol="2"}
+![](/images/November2026/image1.jpeg){width="100%"}
+
+![](/images/November2026/image0.jpeg){width="100%"}
+:::
+
+::: {.center data-latex=""}
+**Venue**: Education Auditorium, 3737 Wascana Parkway, Regina, SK S4S 0A2
+ [Click here to view our location on Google Maps](https://maps.app.goo.gl/X9KSpTQcwbXgFWVz8)
+:::

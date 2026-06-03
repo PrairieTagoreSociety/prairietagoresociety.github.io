@@ -1,0 +1,8 @@
+---
+title: "UpComing Events"
+listing:
+  contents: "*.qmd"
+  type: default
+  fields: [image, date, title, description, reading-time]
+  image-align: right
+---

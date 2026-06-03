@@ -1,5 +1,0 @@
----
-title: "Upcoming Events"
-listing: default
----
-
