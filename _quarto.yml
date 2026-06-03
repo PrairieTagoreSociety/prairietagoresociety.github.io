@@ -3,10 +3,8 @@ project:
   output-dir: docs
   execute-dir: project
   render: 
-    - index.qmd
-    - about.qmd
-    - posts/
-
+    - "*.qmd"
+    
 website:
   title: "Prairie Tagore Society"
   image: "images/RabindranathTagore.jpg" 
@@ -16,14 +14,18 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: pastevents/index.qmd
+        text: Past Events
 
 format:
   html:
+    fontsize: 1.1em
     theme:
-      - cosmo
+      - flatly
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

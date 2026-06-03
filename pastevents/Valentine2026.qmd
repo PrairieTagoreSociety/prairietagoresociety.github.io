@@ -1,0 +1,17 @@
+---
+title: "An Evening of Love Music and Poetry"
+toc: false
+date: 13 February 2026
+image: /images/BanglaPoster.JPG
+---
+
+::: {layout-ncol="2"}
+![](/images/EnglishPoster.JPG){width="100%"}
+
+![](/images/BanglaPoster.JPG){width="100%"}
+:::
+
+::: {.center data-latex=""}
+**Venue**: Harmony United Church, 177 Sunset Dr, Regina, SK S4S 6Y7 [Click here to view our location on Google Maps](https://maps.app.goo.gl/WdRPJQV9uziznRrJA)
+:::
+
