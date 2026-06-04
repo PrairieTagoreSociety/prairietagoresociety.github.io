@@ -1,6 +1,13 @@
-.Rproj.user
-.Rhistory
-.RData
+*
+!/**/
+!*.*
+
+*.Rproj.user
+*.Rhistory
+*.RData
 .Ruserdata
 
 /.quarto/
+
+docs/*
+
