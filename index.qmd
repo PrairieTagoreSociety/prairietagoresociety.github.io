@@ -9,10 +9,8 @@ about:
       text: Email
       href: mailto:prairetagoresociety@gmail.com
     - text: "![](images/youtube.png){width=20}"
-      href: https://www.youtube.com/c/PinuSattar
+      href: https://www.youtube.com/@prairietagoresociety
       aria-label: YouTube
-    - text: "![](images/messenger.png){width=20}"
-      href: https://www.facebook.com/messages/t/61585122125702/
 ---
 
 Prairie Tagore Society Inc. is a registered non-profit organization dedicated to promoting primarily Bengali culture through music, literature, arts, and community events.

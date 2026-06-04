@@ -18,6 +18,8 @@ website:
         text: Upcoming Events
       - href: pastevents/index.qmd
         text: Past Events
+      - href: gallery/index.qmd
+        text: Photo Gallery
 
 format:
   html:

@@ -1,0 +1,51 @@
+---
+title: "Photo Gallery"
+toc: true
+format:
+  html:
+    page-layout: full
+    lightbox: true
+    image-height: "100px"
+---
+
+Browse our memories by event. Click any photo to open the fullscreen slideshow for that occasion.
+
+## February 13, 2026
+
+::: {layout-ncol=3}
+
+![](2026-02-13-1.jpg){.lightbox group="13Feb2026"}
+
+![](2026-02-13-1.jpg){.lightbox group="13Feb2026"}
+
+![](2026-02-13-1.jpg){.lightbox group="13Feb2026"}
+
+:::
+
+---
+
+## April 18, 2026
+
+::: {layout-ncol=3}
+
+![](2026-02-13-1.jpg){.lightbox group="18Apr2026"}
+
+![](2026-02-13-1.jpg){.lightbox group="18Apr2026"}
+
+![](2026-02-13-1.jpg){.lightbox group="18Apr2026"}
+
+:::
+
+---
+
+## June 20, 2026
+
+::: {layout-ncol=3}
+
+![](2026-02-13-1.jpg){.lightbox group="20Jun2026"}
+
+![](2026-02-13-1.jpg){.lightbox group="20Jun2026"}
+
+![](2026-02-13-1.jpg){.lightbox group="20Jun2026"}
+
+:::
