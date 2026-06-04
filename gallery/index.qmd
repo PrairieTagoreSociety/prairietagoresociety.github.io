@@ -11,7 +11,7 @@ format:
 Click any photo to open the full screen slideshow for that occasion.
 
 
-## Bengali New Year (Borshoboron/Pohela Boishakh) - Regina Bengali Hindu Community
+### Bengali New Year (Borshoboron/Pohela Boishakh) - Regina Bengali Hindu Community
 
 ::: {layout-ncol=3}
 
@@ -30,29 +30,17 @@ Click any photo to open the full screen slideshow for that occasion.
 ---
 
 
-## February 13, 2026
+### Pohela Falgun (Bengali Spring Festival) 2026
 
 ::: {layout-ncol=3}
 
-![](2026-02-13-1.jpg){.lightbox group="13Feb2026"}
+![](2026-02-13-1.jpg){.lightbox}
 
-![](2026-02-13-1.jpg){.lightbox group="13Feb2026"}
+![](2026-02-13-1.jpg){.lightbox}
 
-![](2026-02-13-1.jpg){.lightbox group="13Feb2026"}
+![](2026-02-13-1.jpg){.lightbox}
 
 :::
 
 ---
 
-
-## June 20, 2026
-
-::: {layout-ncol=3}
-
-![](2026-02-13-1.jpg){.lightbox group="20Jun2026"}
-
-![](2026-02-13-1.jpg){.lightbox group="20Jun2026"}
-
-![](2026-02-13-1.jpg){.lightbox group="20Jun2026"}
-
-:::

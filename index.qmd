@@ -8,6 +8,9 @@ about:
     - icon: envelope
       text: Email
       href: mailto:prairetagoresociety@gmail.com
+    - text: "![](images/facebook.png){width=25}"
+      href: https://www.facebook.com/people/Prairie-Tagore-Society/61585122125702/
+      aria-label: Facebook
     - text: "![](images/youtube.png){width=65}"
       href: https://www.youtube.com/@prairietagoresociety
       aria-label: YouTube
