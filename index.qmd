@@ -8,7 +8,7 @@ about:
     - icon: envelope
       text: Email
       href: mailto:prairetagoresociety@gmail.com
-    - text: "![](images/youtube.png){width=20}"
+    - text: "![](images/youtube.png){width=65}"
       href: https://www.youtube.com/@prairietagoresociety
       aria-label: YouTube
 ---

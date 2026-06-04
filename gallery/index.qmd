@@ -1,5 +1,5 @@
 ---
-title: "Photo Gallery"
+title: ""
 toc: true
 format:
   html:
@@ -8,7 +8,27 @@ format:
     image-height: "100px"
 ---
 
-Browse our memories by event. Click any photo to open the fullscreen slideshow for that occasion.
+Click any photo to open the full screen slideshow for that occasion.
+
+
+## Bengali New Year (Borshoboron/Pohela Boishakh) - Regina Bengali Hindu Community
+
+::: {layout-ncol=3}
+
+![](1_Borshoboron2026.jpg){.lightbox}
+
+![](2_Borshoboron2026.jpg){.lightbox}
+
+![](3_Borshoboron.jpg){.lightbox}
+
+![](4_Borshoboron.jpg){.lightbox}
+
+![](5_Borshoboron2026.jpg){.lightbox}
+
+:::
+
+---
+
 
 ## February 13, 2026
 
@@ -24,19 +44,6 @@ Browse our memories by event. Click any photo to open the fullscreen slideshow f
 
 ---
 
-## April 18, 2026
-
-::: {layout-ncol=3}
-
-![](2026-02-13-1.jpg){.lightbox group="18Apr2026"}
-
-![](2026-02-13-1.jpg){.lightbox group="18Apr2026"}
-
-![](2026-02-13-1.jpg){.lightbox group="18Apr2026"}
-
-:::
-
----
 
 ## June 20, 2026
 
