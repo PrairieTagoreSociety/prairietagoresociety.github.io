@@ -9,6 +9,7 @@ website:
   title: "Prairie Tagore Society"
   image: "images/RabindranathTagore.jpg" 
   navbar:
+    background: "#000d33"
     left:
       - href: index.qmd
         text: Home
@@ -20,6 +21,10 @@ website:
         text: Past Events
       - href: gallery/index.qmd
         text: Photo Gallery
+  page-footer:
+    left: "Copyright 2026, Praire Tagore Society"
+    right: "Contact: 5646 Campling Ave Regina, SK S4W 0L6"
+    background: "#000d33"
 
 format:
   html:

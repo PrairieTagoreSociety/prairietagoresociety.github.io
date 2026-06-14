@@ -16,8 +16,10 @@ about:
       aria-label: YouTube
 ---
 
+
 Prairie Tagore Society Inc. is a registered non-profit organization dedicated to promoting primarily Bengali culture through music, literature, arts, and community events.
 
 Our goal is to build cultural bridges, enhance multicultural harmony, and celebrate the artistic legacy of Bengali culture within the Canadian social landscape.
 
 We aim to spread the richness of the sub-continental modern and classical songs, dances, poetry as well as other forms of art by embracing and including the cultural mosaic of Canada.
+

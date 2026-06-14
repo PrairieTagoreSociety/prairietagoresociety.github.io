@@ -6,4 +6,3 @@ listing:
   fields: [image, date, title, description, reading-time]
   image-align: right
 ---
-
