@@ -13,8 +13,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: upcomingevents/index.qmd
         text: Upcoming Events
       - href: pastevents/index.qmd
