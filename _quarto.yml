@@ -6,13 +6,13 @@ project:
     - "*.qmd"
     
 website:
-  title: "Prairie Tagore Society"
+  title: ""
   image: "images/RabindranathTagore.jpg" 
   navbar:
     background: "#000d33"
     left:
       - href: index.qmd
-        text: Home
+        text: ''
       - href: upcomingevents/index.qmd
         text: Upcoming Events
       - href: pastevents/index.qmd
